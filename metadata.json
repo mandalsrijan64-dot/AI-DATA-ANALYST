@@ -1,0 +1,6 @@
+{
+  "name": "AI SQL Data Analyst Agent",
+  "description": "An AI-powered SQL data analyst agent that translates natural-language questions into safe SQL, executes queries on a relational database, and delivers human-readable insights with dynamic visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
